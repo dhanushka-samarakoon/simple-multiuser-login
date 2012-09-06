@@ -1,6 +1,10 @@
 simple multi user login script
 ==============================
 
+Download
+--------
+Download as a [zip file](simple-multiuser-login/zipball/master)
+
 How to install
 --------------
 
