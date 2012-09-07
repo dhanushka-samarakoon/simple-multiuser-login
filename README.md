@@ -1,5 +1,6 @@
 simple multi user login script
 ==============================
+This is a simple php script to password pretect small (single or few files) php applications without the use of a database system.
 
 Download
 --------
